@@ -13,6 +13,7 @@
 - Write your query that you want to run across all the collections. Default is to print the count of all documents for each collection
 ###### 
 - Execute the script as below
+
   `mongo -u user_ -p P@$$word mongo_hostname.domain.com/db  --eval " var sleepBetweenBatches=1000" main.js`
 	
 [1]: https://dataginger.com/
