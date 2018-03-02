@@ -32,7 +32,11 @@ if (db != 'local' && db !='admin')
 		  var name = collections[i];
 
 		  if(name.substr(0, 6) != 'system' )
-			print(db + ' | ' + name + ' | ' + db[name].count());
+		  // Write your own query here.
+		  // Prints the count of documents inside each collection
+
+			print(db + ' | ' + name + ' | ' + db[name].count()); 
+			
 		}
 	}        	
 });
