@@ -1,5 +1,5 @@
 | [`dataginger`][1] | 
-| `Hareesh - Mognodb - `get count of documents for each collection` |
+| `Hareesh - Mognodb - get count of documents for each collection` |
 # readme.md #
 
 
